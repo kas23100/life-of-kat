@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="keywords" content="Blogging, Life of a Nanny, Nannies, Working with Kids">
+    <meta name="description" content="Blogs about my life as a nanny">
+    <meta name="author" content="Katlin Schaller">
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <title>Life of Kat</title>
+  </head>
+  <body>
+    <header> Life of Kat </header>
+    <div class="navbar"> <a href="index.html">Home</a> <a href="aboutme.html">About
+        Me</a> <a class="active" href="resources.html">Resources</a> <a href="content.html">Content</a>
+    </div>
+    <br>
+    <h4>Lesson Plans </h4>
+    <p> Click the links below to find activities for each theme. </p>
+    <table id="themes" class="center">
+      <tbody>
+        <tr>
+          <td>Monthly Themes</td>
+        </tr>
+        <tr>
+          <th>About Me</th>
+        </tr>
+        <tr>
+          <th>Our Community</th>
+        </tr>
+        <tr>
+          <th>Seasons</th>
+        </tr>
+        <tr>
+          <th>Weather</th>
+        </tr>
+        <tr>
+          <th>Food</th>
+        </tr>
+        <tr>
+          <th>Insects and Nature</th>
+        </tr>
+        <tr>
+          <th>Transportation</th>
+        </tr>
+        <tr>
+          <th>Gardening</th>
+        </tr>
+        <tr>
+          <th>Health and Safety</th>
+        </tr>
+        <tr>
+          <th>Around the World</th>
+        </tr>
+        <tr>
+          <th>Animals</th>
+        </tr>
+        <tr>
+          <th>Outer Space</th>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
